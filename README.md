@@ -5,11 +5,14 @@
 
 
 ## ！！！重要！！！发布版本未必是完全版本，因为做实验需要保存代码，请注意代码会有BUG
-
-
+---
 ### 可以公开的信息(雾
-环境用的Masm for Windows的集成环境（真出奇的难用……）自己的机器用的emu8086,文本编辑器用的sublime text 3
+*环境
+>用的Masm for Windows的集成环境（出奇的难用部分功能还收费，仅个人观点）
+>自己的机器用的emu8086
+>文本编辑器用的sublime text 3
 
-Package Controller就不说了这个都装
-代码高亮可以用一下x86 and x86_64 Assembly
-16位的也能高亮，基本够用了
+*sublime text 3插件
+>Package Controller就不说了这个都装
+>x86 and x86_64 Assembly代码高亮
+
